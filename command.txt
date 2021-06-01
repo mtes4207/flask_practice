@@ -1,0 +1,5 @@
+$ export FLASK_APP=main.py      bash
+> set FLASK_APP=main.py      windows
+
+
+flask run
